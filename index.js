@@ -15,7 +15,7 @@ const titleCased = () => {
   return tutorials.map(phrase => {
     phrase.split(' ').map(word => {
       
-    })
+    });
   });
 }
 
